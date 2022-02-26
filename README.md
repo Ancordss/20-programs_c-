@@ -23,7 +23,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Ancordss/20-programs_c-">
-    <img src="images/logo.png" alt="20 programas en c++" width="80" height="80">
+    <img src="" alt="20 programas en c++" width="80" height="80">
   </a>
 
   <h3 align="center">James Maradiaga</h3>
